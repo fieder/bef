@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fieder.github.io/fromemushrooms/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mushroom-banner2.mp4 # add banner video. Add your video file to the folder video
@@ -50,3 +50,5 @@ gems:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+gem "github-pages", group: :jekyll_plugins
