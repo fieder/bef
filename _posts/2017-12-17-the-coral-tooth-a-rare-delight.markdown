@@ -8,13 +8,15 @@ tag: [Mushroom, Edible, Medicinal]
 ---
 Coral Tooth is one of the less known gems of modern medicine. It combines incredible flavors with exquisite texture to unleash the power of healing nature.
 
-> A key property found is its role in brain cell regeneration - allowing cognitive capabilitites to be recovered. <cite>- Nature Magazine- Mushcroom medicine 12-Dec-2017</cite>
+> A key property found is its role in brain cell regeneration - allowing cognitive capabilitites to be recovered. <cite>- Nature Magazine- Dr DMT Chief</cite>
 
 ## Recipes
-Coral stew
+Coral stew with sacred juices
 
 ## Properties
-Nutritional facts
+- Nutritional facts
+- Druid powers
+- Extreme sex endurance
 
 ## Price
 Order £30 / Kg.
